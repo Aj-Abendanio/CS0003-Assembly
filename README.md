@@ -1,2 +1,2 @@
-# CS0003-Assemby
+# CS0003-Assembly
 A compilation of my Assembly programs
