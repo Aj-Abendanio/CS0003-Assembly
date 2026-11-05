@@ -1,0 +1,9 @@
+GEORGETTE EATERY
+ORDER RECEIPT
+------------------------------------------------------
+Plain Rice: Php 5.00
+Java Rice: Php 10.00
+Fish: Php 35.00
+Pork: Php 50.00
+Vegetables: Php 20.00
+Saging con yelo: Php 60.00
